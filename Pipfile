@@ -1,0 +1,7 @@
+[requires]
+python_version = "3.10"
+
+[packages]
+rich = "*"
+
+[dev-packages]
